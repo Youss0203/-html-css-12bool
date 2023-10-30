@@ -1,0 +1,25 @@
+
+
+[class^=col-]{
+    background-color: #006CFA;
+    color:white;
+    margin-bottom:.5rem;
+}
+
+.bg-green{
+    background-color: #00E164;
+    margin-top:.5rem;
+}
+
+.altezza{
+    height: 30px;
+}
+
+.margin-top{
+    margin-top:3rem;
+}
+
+h1{
+    background-color: white ;
+    color:black;
+}
